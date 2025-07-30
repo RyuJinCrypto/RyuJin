@@ -11,7 +11,7 @@ Welcome to the official GitHub repository of **RyuJin** — a decentralized cryp
 
 ## 🔥 About RyuJin
 
-RyuJin is more than a token—it's a movement. RyuJin carries forward a legacy of innovation, mystery, and rebellion against centralization, operating as part of Omikami Ecosystem.
+RyuJin is more than a token—it's a movement. Launched by Ryoshi, RyuJin carries forward a legacy of innovation, mystery, and rebellion against centralization, operating as part of Omikami Ecosystem.
 
 ---
 
